@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="965f7bc2db7200104bcc656b4b961969" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 03:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>965f7bc2db7200104bcc656b4b961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_965f7bc2db7200104bcc656b4b961969</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 03:34:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>87649666db5cbf009df22f17d496197e</instance_id>
+        <instance_name>dev76716</instance_name>
+        <name>sys_ui_section_965f7bc2db7200104bcc656b4b961969</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="965f7bc2db7200104bcc656b4b961969" sys_domain="global" table="x_58872_needit_needit" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-08 03:34:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>965f7bc2db7200104bcc656b4b961969</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_965f7bc2db7200104bcc656b4b961969</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-08 03:34:36</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>216692710</payload_hash>
+        <record_name>Needit</record_name>
+        <reverted_from/>
+        <source>1acb98a5db7600104bcc656b4b9619a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-08 03:39:10</sys_created_on>
+        <sys_id>19600c16db7200104bcc656b4b961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17022e13adf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-08 03:39:10</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>91600c16fd720010fe9d4a9dd20e5f13</update_guid>
+        <update_guid_history>91600c16fd720010fe9d4a9dd20e5f13:216692710,9a5fbbc237720010a5c073fa48927d4c:-1269373200</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-08 03:40:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>72166b95c0d84458a66c08baaf36e410</sys_id>
+        <sys_metadata>965f7bc2db7200104bcc656b4b961969</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Needit">9a6e9469db7600104bcc656b4b9619e9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_965f7bc2db7200104bcc656b4b961969</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_965f7bc2db7200104bcc656b4b961969">19600c16db7200104bcc656b4b961913</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-08 03:40:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
